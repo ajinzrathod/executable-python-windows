@@ -49,7 +49,6 @@ setup(
     	Executable("Swaminarayan/Swaminarayan.py",
     		 base=base,
     		 icon=r"F:\executable-python-windows\Swaminarayan\icon.ico",
-    		 # MUI_ICON=
     		 shortcutName='Swaminarayan',
     		 shortcutDir='DesktopFolder',
     		 )
