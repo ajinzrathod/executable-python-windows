@@ -4,3 +4,6 @@ https://subscription.packtpub.com/book/application_development/9781849513845/1/c
 
 How to Create An .exe And Installer For Python Application using cx_Freeze Module in HINDI | Urdu
 https://www.youtube.com/watch?v=inuzQfxTOkg
+
+distutils setup script
+https://cx-freeze.readthedocs.io/en/latest/distutils.html
