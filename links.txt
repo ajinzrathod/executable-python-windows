@@ -1,0 +1,6 @@
+Make a compiled executable under Windows and Linux
+https://subscription.packtpub.com/book/application_development/9781849513845/1/ch01lvl1sec11/make-a-compiled-executable-under-windows-and-linux
+
+
+How to Create An .exe And Installer For Python Application using cx_Freeze Module in HINDI | Urdu
+https://www.youtube.com/watch?v=inuzQfxTOkg
