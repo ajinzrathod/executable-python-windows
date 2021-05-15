@@ -38,7 +38,7 @@ py -m venv env
 ```bat
 .\env\Scripts\activate  
 ```
-If you see `(env)`
+If you see `(env)`, it indicataes virtual environment is activated succesfully.
 
 ## Test the code
 ```bat
@@ -122,7 +122,7 @@ py setup.py build
 It means your icon file is missing or path to icon file is incorrect.
 
 ### If everything goes well
-It will take a while and after the process is completed you will see a folder named *build* in your directory where you will have a folder named **exe.win-<architecture>-<python-verion>**.
+It will take a while and after the process is completed you will see a folder named *build* in your directory where you will have a folder named **exe.win-\<architecture>-\<python-verion>**.
 
 Open that folder and you will find **main.exe**
 
