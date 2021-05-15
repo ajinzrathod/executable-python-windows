@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=inuzQfxTOkg
 
 distutils setup script
 https://cx-freeze.readthedocs.io/en/latest/distutils.html
+
+
+Documentation of how to create desktop or program menu shortcut in Windows #48 
+https://github.com/marcelotduarte/cx_Freeze/issues/48
